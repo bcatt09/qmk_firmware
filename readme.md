@@ -7,19 +7,14 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/pulse/monthly)
 [![GitHub forks](https://img.shields.io/github/forks/qmk/qmk_firmware.svg?style=social&label=Fork)](https://github.com/qmk/qmk_firmware/)
 
+<br/><br/><br/><br/>
 
-
-## To Build and Flash
+## To Build and Flash Your Ergodox Infinity
 
 * [Install MSYS2 to build and flash the firmware](https://beta.docs.qmk.fm/tutorial/newbs_getting_started)
 * [See Ergodox section for specific flashing commands](/keyboards/ergodox_infinity)
 
-
-
-
-
-
-
+<br/><br/><br/><br/>
 
 This is a keyboard firmware based on the [tmk\_keyboard firmware](https://github.com/tmk/tmk_keyboard) with some useful features for Atmel AVR and ARM controllers, and more specifically, the [OLKB product line](https://olkb.com), the [ErgoDox EZ](https://ergodox-ez.com) keyboard, and the [Clueboard product line](https://clueboard.co).
 
