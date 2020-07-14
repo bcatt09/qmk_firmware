@@ -14,7 +14,7 @@
 * Edit the keymap files in [/keyboards/ergodox_infinity/keymaps/bcatt09](/keyboards/ergodox_infinity/keymaps/bcatt09)
 * [List of key codes](https://docs.qmk.fm/#/keycodes)
 * [Install MSYS2 and setup environment](https://beta.docs.qmk.fm/tutorial/newbs_getting_started) to build and flash the firmware
-* See [Ergodox section](/keyboards/ergodox_infinity) for specific flashing commands
+* See [Ergodox section readme](/keyboards/ergodox_infinity) for specific flashing commands
 
 <br/><br/><br/><br/>
 
